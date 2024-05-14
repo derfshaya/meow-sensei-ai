@@ -37,7 +37,7 @@ So for me, if someone unfamiliar asks, "What do you do for a living?" I could sa
 
 ## Ways to pitch the VIBE Framework
 
-Version A
+### Version A
 
 You know how professionals in tech often struggle to balance their work with their personal life? I faced the same challenge. Just like many of my clients in the tech industry, the constant demand to stay ahead in their field while managing personal aspirations can lead to burnout and stress.
 
@@ -45,7 +45,7 @@ I managed to solve this problem by leveraging AI tools and strategies that optim
 
 In fact, I recently had a client who faced these exact challenges. After implementing the strategies we developed, they invited me to speak at their company about this solution. I'd be happy to do the same for you!
 
-Version B
+### Version B
 
 You know how professionals in tech often struggle to balance their work with their personal life? I faced the same challenge. Just like many of my clients in the tech industry, the constant demand to stay ahead in their field while managing personal aspirations can lead to burnout and stress.
 
@@ -53,7 +53,7 @@ I managed to solve this problem by leveraging AI tools and strategies that optim
 
 just last month, I delivered a keynote address on this very topic, sharing insights and practical tools that transform how professionals in tech manage their time and energy. I’m excited to offer the same insights to you, helping to create a more fulfilling and productive life.
 
-**Version C**
+### **Version C**
 
 When people approach me, including HR practitioners in tech companies, they express similar concerns. Their teams understand the importance of being visible on social media, yet struggle to attract customers and meet sales targets.
 
