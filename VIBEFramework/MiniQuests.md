@@ -217,9 +217,7 @@ The quests in the VIBE framework, now utilizing "generative AI," should be acces
   4. Use generative AI to practice responding empathetically in various scenarios.
   5. Implement generative AI to help prepare for difficult conversations.
   6. Use generative AI to improve your presentation skills through feedback.
-  7. Have generative AI
-
- provide tips for effective virtual communication.
+  7. Have generative AI provide tips for effective virtual communication.
   8. Set up generative AI to remind you of important points to discuss in meetings.
   9. Use generative AI to draft thoughtful thank-you messages.
   10. Implement generative AI to enhance your negotiation skills.
